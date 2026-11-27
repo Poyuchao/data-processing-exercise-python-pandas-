@@ -1,0 +1,22 @@
+session_id,physician,seconds,topic,quote
+US-01,Dr_A1,1011,weight,Patients are afraid of putting on weight.
+US-01,Dr_A1,2125,dosing convenience,Simple dosing helps patients.
+US-01,dr_a2,447,reimbursement,Reimbursement is still unclear for us.
+US-01, Dr_A2 ,3492,compliance,Some patients skip doses.
+US-01,,2866,Hypoglycemia,"We see night-time lows, that is the risk."
+US-01,Dr_A3,2879,Low Blood Sugar,"We see night-time lows, that is the risk."
+US-01,Dr_A3,2896,Hypoglycemia,"We see night-time lows, that is the risk."
+US-01, Dr_A3 ,1681,weight gain,Patients are afraid of putting on weight.
+US-01,dr_a3,3230,Weight Gain,Weight gain is a common complaint.
+US-01,Dr_A3,3150,Once Weekly,Simple dosing helps patients.
+US-01,Dr_A3,n/a,once weekly,Simple dosing helps patients.
+US-02,Dr_A4,507,Price,Patients ask about cost first.
+US-02,dr_a4,961,cost,Patients ask about cost first.
+US-02, Dr_A5 ,500,compliance,Adherence drops after the first months.
+US-02,Dr_A5,973,reimbursement,Reimbursement is still unclear for us.
+US-02,Dr_A5,3113, Insurance Coverage,Reimbursement is still unclear for us.
+US-02,Dr_A5,725,Hypoglycaemia,My main worry is hypoglycemia in older patients.
+US-02,Dr_A5,373,Hypoglycemia,Low blood sugar episodes would worry me at home.
+US-01, Dr_A2 ,3492,compliance,Some patients skip doses.
+US-01,Dr_A3,3150,Once Weekly,Simple dosing helps patients.
+US-01,Dr_A3,2896,Hypoglycemia,"We see night-time lows, that is the risk. (edited)"

@@ -1,0 +1,10 @@
+id,clinician,date,topic,sentiment,words
+U01, dr_k1,03/10/2026,Dosing,Positive,120
+U02,DR_K2,03/10/2026,Cost,negative ,80
+U03,Dr_K1,04/10/2026,side-effects,NEUTRAL,95
+U04,dr_k3,05/10/2026,Side effects,Negative,150
+U05,Dr_K2,05/10/2026,cost ,Negative,60
+U06,,06/10/2026,Dosing,Positive,70
+U07,Dr_K3,31/02/2026,Dosing,Positive,55
+U08,Dr_K1,03/10/2026,dosing,positive,120
+U09,Dr_K4,07/10/2026,Cost,Neutral,40

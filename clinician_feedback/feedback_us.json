@@ -1,0 +1,58 @@
+[
+ {
+  "clinician": "Dr_M1",
+  "date": "2026-10-03",
+  "topic": "cost",
+  "sentiment": 2,
+  "words": 110
+ },
+ {
+  "clinician": "dr_m2",
+  "date": "2026-10-03",
+  "topic": "Dosing",
+  "sentiment": 5,
+  "words": 90
+ },
+ {
+  "clinician": "Dr_M1",
+  "date": "2026-10-04",
+  "topic": "Side effects",
+  "sentiment": 1,
+  "words": 200
+ },
+ {
+  "clinician": "Dr_M3",
+  "date": "2026-10-05",
+  "topic": "cost",
+  "sentiment": 3,
+  "words": 45
+ },
+ {
+  "clinician": "Dr_M3",
+  "date": "2026-10-05",
+  "topic": "Cost",
+  "sentiment": 3,
+  "words": 50
+ },
+ {
+  "clinician": "Dr_M2",
+  "date": "not a date",
+  "topic": "dosing",
+  "sentiment": 4,
+  "words": 30
+ },
+ {
+  "clinician": "Dr_M4",
+  "date": "2026-10-06",
+  "topic": "side effects",
+  "sentiment": 2,
+  "words": 75
+ },
+ {
+  "clinician": null,
+  "date": "2026-10-07",
+  "topic": "dosing",
+  "sentiment": 4,
+  "words": 20
+ }
+]

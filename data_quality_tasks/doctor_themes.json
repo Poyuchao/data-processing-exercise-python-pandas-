@@ -1,0 +1,64 @@
+[
+ {
+  "doctor": "Dr_A1",
+  "market": "UK",
+  "themes": [
+   "price",
+   "Safety ",
+   "adherence"
+  ]
+ },
+ {
+  "doctor": "Dr_A2",
+  "market": "UK",
+  "themes": [
+   "safety"
+  ]
+ },
+ {
+  "doctor": "Dr_A3",
+  "market": "TW",
+  "themes": []
+ },
+ {
+  "doctor": "Dr_A4",
+  "market": "TW",
+  "themes": [
+   "PRICE",
+   "price",
+   "dosing"
+  ]
+ },
+ {
+  "doctor": "Dr_A5",
+  "market": "US"
+ },
+ {
+  "doctor": "Dr_A6",
+  "market": "US",
+  "themes": [
+   "adherence",
+   "safety"
+  ]
+ },
+ {
+  "doctor": "Dr_A1",
+  "market": "UK",
+  "themes": [
+   "price"
+  ]
+ },
+ {
+  "doctor": "Dr_A7",
+  "market": "TW",
+  "themes": [
+   "dosing",
+   "Adherence"
+  ]
+ },
+ {
+  "doctor": "Dr_A8",
+  "market": "UK",
+  "themes": null
+ }
+]

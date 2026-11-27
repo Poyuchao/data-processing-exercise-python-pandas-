@@ -1,0 +1,190 @@
+[
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U1",
+  "t": "00:54:40",
+  "theme": "Adherence",
+  "text": "Some patients skip doses."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U1",
+  "t": "00:46:30",
+  "theme": "compliance",
+  "text": "Some patients skip doses."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U1",
+  "t": "00:09:50",
+  "theme": "adherence",
+  "text": "Some patients skip doses."
+ },
+ {
+  "session": "UK-01",
+  "t": "00:58:15",
+  "theme": "dosing convenience",
+  "text": "Simple dosing helps patients."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U2",
+  "t": "00:37:38",
+  "theme": "cost",
+  "text": "Patients ask about cost first."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "dr_u2",
+  "t": "00:03:59",
+  "theme": "price",
+  "text": "Patients ask about cost first."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U2",
+  "t": "00:32:41",
+  "theme": " Insurance Coverage",
+  "text": "Price and insurance coverage decide if I prescribe."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U2",
+  "t": "8:15",
+  "theme": "weight",
+  "text": "Patients are afraid of putting on weight."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U2",
+  "t": "00:30:29",
+  "theme": "Weight Gain",
+  "text": "Patients are afraid of putting on weight."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U2",
+  "t": "00:04:50",
+  "theme": "weight",
+  "text": "Weight gain is a common complaint."
+ },
+ {
+  "session": "UK-01",
+  "speaker": " Dr_U2 ",
+  "t": "00:27:14",
+  "theme": "hypoglycemia",
+  "text": "We see night-time lows, that is the risk."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "",
+  "t": "00:36:23",
+  "theme": "Hypoglycaemia",
+  "text": "We see night-time lows, that is the risk."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U3",
+  "t": "00:54:11",
+  "theme": "low blood sugar",
+  "text": "We see night-time lows, that is the risk."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U3",
+  "t": "00:28:46",
+  "theme": "Hypoglycemia",
+  "text": "My main worry is hypoglycemia in older patients."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U3",
+  "t": "00:41:41",
+  "theme": "hypoglycemia",
+  "text": "Low blood sugar episodes would worry me at home."
+ },
+ {
+  "session": "UK-02",
+  "speaker": " Dr_U4 ",
+  "t": "00:49:13",
+  "theme": "weight gain",
+  "text": "Patients are afraid of putting on weight."
+ },
+ {
+  "session": "UK-02",
+  "speaker": "Dr_U4",
+  "t": "00:03:45",
+  "theme": "Weight Gain",
+  "text": "Weight gain is a common complaint."
+ },
+ {
+  "session": "UK-02",
+  "speaker": "dr_u4",
+  "t": "00:17:21",
+  "theme": "Hypoglycemia",
+  "text": "We see night-time lows, that is the risk."
+ },
+ {
+  "session": "UK-02",
+  "speaker": "Dr_U4",
+  "t": "00:47:20",
+  "theme": "Hypoglycemia",
+  "text": "My main worry is hypoglycemia in older patients."
+ },
+ {
+  "session": "UK-02",
+  "speaker": "Dr_U5",
+  "t": "",
+  "theme": "dosing convenience",
+  "text": "Simple dosing helps patients."
+ },
+ {
+  "session": "UK-02",
+  "speaker": " Dr_U5 ",
+  "t": "00:42:10",
+  "theme": "dosing convenience",
+  "text": "Simple dosing helps patients."
+ },
+ {
+  "session": "UK-02",
+  "speaker": "Dr_U5",
+  "t": "00:04:00",
+  "theme": "Once Weekly",
+  "text": "Once weekly dosing would be a big plus."
+ },
+ {
+  "session": "UK-02",
+  "speaker": "Dr_U5",
+  "t": "00:36:41",
+  "theme": "weight",
+  "text": "Weight gain is a common complaint."
+ },
+ {
+  "session": "UK-02",
+  "speaker": "Dr_U5",
+  "t": "00:33:31",
+  "theme": "low blood sugar",
+  "text": "We see night-time lows, that is the risk."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U1",
+  "t": "00:09:50",
+  "theme": "adherence",
+  "text": "Some patients skip doses."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "Dr_U3",
+  "t": "00:41:41",
+  "theme": "hypoglycemia",
+  "text": "Low blood sugar episodes would worry me at home."
+ },
+ {
+  "session": "UK-01",
+  "speaker": "dr_u2",
+  "t": "00:03:59",
+  "theme": "price",
+  "text": "Patients ask about cost first. (edited)"
+ }
+]

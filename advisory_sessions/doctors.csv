@@ -1,0 +1,16 @@
+doctor_id,market,specialty,years_in_practice
+Dr_U1,UK,endocrinology,25
+Dr_U2,UK,primary care,9
+Dr_U3,UK,internal medicine,N/A
+Dr_U4,UK,endocrinology,9
+Dr_U5,UK,cardiology,15
+Dr_T1,TW,endocrinology,20
+Dr_T2,TW,primary care,20
+Dr_T3,TW,internal medicine,6
+Dr_T4,TW,endocrinology,
+Dr_A1,US,endocrinology,6
+Dr_A2,US,primary care,25
+Dr_A3,US,internal medicine,25
+Dr_A4,US,,20
+Dr_A5,US,cardiology,20
+Dr_A9,US,endocrinology,11

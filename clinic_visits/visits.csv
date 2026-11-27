@@ -1,0 +1,15 @@
+visit_id,doctor,clinic,date,minutes,rating,note
+V01,Dr_A1,North,2026-10-01,30,5.0,Price concerns
+V02,Dr_A2,North,2026-10-01,45,4.0,side effects
+V03,Dr_B1,South,2026-10-02,20,3.0,price concerns
+V04,Dr_A1,North,2026-10-03,15,,Follow-up
+V05,Dr_B2,South,2026-10-03,60,5.0,Side effects reported
+V06,Dr_C1,East,2026-10-04,25,2.0,price
+V07,Dr_A2,North,2026-10-05,40,4.0,Follow-up
+V08,Dr_B1,South,2026-10-05,35,,side effects
+V09,Dr_C1,East,2026-10-06,50,5.0,Price concerns
+V10,Dr_C2,East,2026-10-06,10,1.0,Follow-up
+V11,Dr_B2,South,2026-10-07,55,4.0,price
+V12,Dr_A1,North,2026-10-08,35,3.0,side effects
+V13,Dr_D1,West,2026-10-08,20,4.0,Follow-up
+V14,Dr_C2,East,2026-10-09,45,5.0,price concerns

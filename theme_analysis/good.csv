@@ -1,0 +1,11 @@
+market,doctor,theme,seconds
+UK,Dr_U1,hypoglycemia,70
+UK,Dr_U2,price_reimbursement,95
+UK,Dr_U1,adherence,120
+TW,Dr_T1,hypoglycemia,756
+TW,Dr_T2,hypoglycemia,45
+TW,Dr_T5,price_reimbursement,200
+US,Dr_A1,hypoglycemia,300
+US,Dr_A2,adherence,60
+US,Dr_A1,hypoglycemia,300
+US,Dr_A2,weight_gain,15
